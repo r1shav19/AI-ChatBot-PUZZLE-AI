@@ -1,7 +1,7 @@
 # Puzzle AI Assistant
 
 Puzzle AI is a local voice-controlled AI assistant similar to Jarvis.
-
+(note: Users must provide their own Picovoice access key.)
 ## Features
 
 - Wake word detection ("Puzzle")

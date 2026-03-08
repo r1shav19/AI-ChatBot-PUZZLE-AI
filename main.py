@@ -141,7 +141,7 @@ def ask_llm(prompt):
 
 # ---------------- WAKE WORD ---------------- #
 
-ACCESS_KEY = "VRs2zGh76LY33DrBrx+7MlH5iTVQJcaqFjRLZTn3jjdO1RTu5ikCYA=="
+ACCESS_KEY = "YOUR_PICOVOICE_ACCESS_KEY"
 
 porcupine = pvporcupine.create(
     access_key=ACCESS_KEY,
