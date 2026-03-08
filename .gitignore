@@ -1,0 +1,8 @@
+__pycache__/
+*.mp3
+*.wav
+*.pyc
+.env
+.cache
+input.wav
+voice_*.mp3
